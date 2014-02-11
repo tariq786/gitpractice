@@ -10,3 +10,5 @@ He who digs a pit for others, himself falls into it
 What you sow, so shall you reap
 
 Life is mortal
+
+Man is mortal
