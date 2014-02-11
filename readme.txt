@@ -12,3 +12,5 @@ What you sow, so shall you reap
 Life is mortal
 
 Man is mortal
+
+Think locally act globally
