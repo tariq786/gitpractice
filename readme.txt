@@ -8,3 +8,5 @@ A stitch in time saves nine
 He who digs a pit for others, himself falls into it
 
 What you sow, so shall you reap
+
+Life is mortal
