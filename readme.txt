@@ -14,3 +14,5 @@ Eye for an eye will make the whole world blind
 Pride hath a fall
 Greed is a curse
 No pains no gains
+A diamond is forever
+GOD is ONE
