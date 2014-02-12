@@ -11,3 +11,4 @@ Man is mortal
 Think locally act globally
 East West Homes Best
 Eye for an eye will make the whole world blind
+Greed is a curse
