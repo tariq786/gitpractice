@@ -18,3 +18,6 @@ Putting words in sentences
 Capital city of Pakistan is Islamabad
 It is a very beautiful city
 It is expensive to live in this city though
+
+#creating a conflict with online copy
+East or West, US is the best
