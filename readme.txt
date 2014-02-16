@@ -16,3 +16,6 @@ Greed is a curse
 No pains no gains
 A diamond is forever
 GOD is ONE
+
+When Adam delved and Eve span
+Who is then the gentleman
