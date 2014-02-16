@@ -10,3 +10,8 @@ Simplicity favors regularity
 #Following Modification is in experiment branch
 I dont know
 Knowledge is power
+
+#
+Capital city of Pakistan is Islamabad
+It is a very beautiful city
+It is expensive to live in this city though
