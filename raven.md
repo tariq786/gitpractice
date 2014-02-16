@@ -10,3 +10,8 @@ Simplicity favors regularity
 #Following Modification is in experiment branch
 I dont know
 Knowledge is power
+
+#back to the original branch
+Playing hangman here and there
+Putting thoughts in order
+Putting words in sentences
