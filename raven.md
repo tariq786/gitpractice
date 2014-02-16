@@ -11,7 +11,10 @@ Simplicity favors regularity
 I dont know
 Knowledge is power
 
-#back to the original branch
 Playing hangman here and there
 Putting thoughts in order
 Putting words in sentences
+#
+Capital city of Pakistan is Islamabad
+It is a very beautiful city
+It is expensive to live in this city though
