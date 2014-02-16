@@ -19,5 +19,7 @@ Capital city of Pakistan is Islamabad
 It is a very beautiful city
 It is expensive to live in this city though
 
-#creating a conflict with online copy
+#merged conflict between online and local copy by combining the two
 East or West, US is the best
+Hell Github, you are great.
+Opensource is the future
